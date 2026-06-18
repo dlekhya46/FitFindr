@@ -1,0 +1,162 @@
+{
+  "role": "Senior AI Engineer",
+  "company": "Redrob AI",
+  "company_type": "product",
+  "experience_range": {
+    "min_years": 2.0,
+    "max_years": 20,
+    "sweet_spot_min": 5,
+    "sweet_spot_max": 9,
+    "ideal_min": 6,
+    "ideal_max": 8
+  },
+  "location": {
+    "preferred_cities": [
+      "pune", "noida", "hyderabad", "mumbai", "delhi", "delhi ncr",
+      "gurgaon", "gurugram", "bangalore", "bengaluru", "new delhi",
+      "navi mumbai", "thane"
+    ],
+    "country_required": "India",
+    "accept_relocation": true
+  },
+  "must_have_skills": [
+    {
+      "canonical": "embeddings",
+      "variants": [
+        "embedding", "embeddings", "sentence-transformer", "sentence transformer",
+        "openai embedding", "bge", "e5", "vector embedding", "text embedding",
+        "semantic embedding", "dense vector", "bi-encoder", "sentence bert",
+        "all-minilm", "all-mpnet", "instructor"
+      ]
+    },
+    {
+      "canonical": "vector_search",
+      "variants": [
+        "pinecone", "qdrant", "milvus", "weaviate", "faiss", "elasticsearch",
+        "opensearch", "vector database", "vector db", "vector store",
+        "vector search", "ann search", "approximate nearest neighbor",
+        "hnsw", "ivf", "annoy", "scann", "pgvector", "chromadb", "chroma"
+      ]
+    },
+    {
+      "canonical": "retrieval",
+      "variants": [
+        "retrieval", "information retrieval", "rag", "retrieval augmented",
+        "retrieval-augmented generation", "hybrid search", "bm25", "sparse retrieval",
+        "dense retrieval", "re-ranking", "reranking", "cross-encoder",
+        "document retrieval", "passage retrieval", "semantic search"
+      ]
+    },
+    {
+      "canonical": "python",
+      "variants": [
+        "python", "pyspark", "pandas", "numpy", "pytorch", "tensorflow",
+        "scikit-learn", "sklearn", "fastapi", "flask"
+      ]
+    },
+    {
+      "canonical": "ranking_evaluation",
+      "variants": [
+        "ndcg", "mrr", "map", "mean average precision", "mean reciprocal rank",
+        "precision@k", "recall@k", "a/b test", "ab test", "a/b testing",
+        "offline evaluation", "online evaluation", "relevance judgment",
+        "evaluation framework", "ranking evaluation", "search evaluation",
+        "click-through rate", "ctr", "dcg"
+      ]
+    },
+    {
+      "canonical": "llm_or_ml",
+      "variants": [
+        "llm", "large language model", "gpt", "bert", "transformer",
+        "fine-tuning", "fine tuning", "finetuning", "lora", "qlora",
+        "hugging face", "huggingface", "neural network", "deep learning",
+        "machine learning", "nlp", "natural language processing",
+        "language model", "generative ai", "gen ai", "text generation"
+      ]
+    }
+  ],
+  "nice_to_have_skills": [
+    "lora", "qlora", "peft", "learning to rank", "learning-to-rank", "ltr",
+    "xgboost", "lightgbm", "lambdamart", "recommendation", "recommender system",
+    "collaborative filtering", "distributed inference", "triton", "onnx",
+    "torchserve", "ray serve", "mlflow", "kubeflow", "airflow",
+    "open source", "github contribution", "hr tech", "recruiting tech",
+    "talent intelligence", "marketplace", "kafka", "spark", "flink",
+    "kubernetes", "docker", "aws", "gcp", "azure"
+  ],
+  "ai_ml_title_keywords": [
+    "ml engineer", "machine learning engineer", "ai engineer", "artificial intelligence",
+    "data scientist", "nlp engineer", "nlp", "natural language processing",
+    "search engineer", "ranking engineer", "recommendation engineer",
+    "applied scientist", "applied ml", "applied research", "research scientist",
+    "mlops", "ml platform", "ml infrastructure", "deep learning engineer",
+    "computer vision engineer", "llm engineer", "generative ai",
+    "data engineer", "analytics engineer", "software engineer",
+    "backend engineer", "senior engineer", "staff engineer",
+    "principal engineer", "tech lead"
+  ],
+  "hard_disqualifiers": {
+    "domain_mismatch_titles": [
+      "hr manager", "human resources manager", "hr executive", "recruiter",
+      "marketing manager", "marketing executive", "digital marketing",
+      "sales executive", "sales manager", "account manager", "accountant",
+      "chartered accountant", "finance manager",
+      "civil engineer", "structural engineer",
+      "mechanical engineer", "manufacturing engineer",
+      "chemical engineer", "process engineer",
+      "content writer", "copywriter", "seo specialist", "content strategist",
+      "graphic designer", "ux designer", "ui designer", "visual designer",
+      "customer support", "customer success", "customer service representative",
+      "scrum master", "agile coach",
+      "business analyst", "functional analyst",
+      "operations manager", "operations executive"
+    ],
+    "consulting_firms": [
+      "tcs", "tata consultancy services", "infosys", "wipro", "accenture",
+      "cognizant", "capgemini", "hcl", "hcltech", "hcl technologies",
+      "tech mahindra", "techmahindra", "mphasis", "hexaware",
+      "ltimindtree", "l&t infotech", "persistent systems",
+      "zensar", "niit technologies", "mastech", "igate",
+      "birlasoft", "cyient", "coforge", "happiest minds"
+    ],
+    "min_years_experience": 2.0,
+    "max_inactive_days_hard": 365
+  },
+  "production_evidence_keywords": [
+    "deployed", "deployment", "production", "prod environment", "shipped",
+    "launched", "went live", "real-time", "realtime", "live system",
+    "latency", "p50", "p99", "throughput", "qps", "rps", "sla",
+    "users", "user traffic", "million requests", "billion queries",
+    "a/b test", "ab test", "experiment", "online metrics", "online evaluation",
+    "ndcg", "mrr", "precision", "recall", "click-through", "ctr",
+    "index refresh", "embedding drift", "model drift", "data drift",
+    "scale", "horizontal scaling", "distributed", "microservice",
+    "api endpoint", "rest api", "serving", "model serving",
+    "monitoring", "alerting", "on-call", "incident", "sre",
+    "inference server", "triton", "torchserve", "onnx export",
+    "feature store", "data pipeline", "etl pipeline",
+    "production traffic", "shadow mode", "canary"
+  ],
+  "research_anti_patterns": [
+    "published paper", "arxiv", "academic paper", "research publication",
+    "sota", "state of the art", "ablation study", "ablation",
+    "benchmark dataset", "benchmark only",
+    "academic project", "university project", "phd thesis", "dissertation",
+    "coursera", "udemy", "udacity", "edx certificate",
+    "kaggle competition", "kaggle notebook",
+    "side project only", "personal project", "hobby project",
+    "proof of concept only", "poc only", "prototype only", "demo only",
+    "tutorial", "blog post implementation"
+  ],
+  "scoring_weights": {
+    "role_fit": 0.35,
+    "technical_depth": 0.30,
+    "behavioral_availability": 0.20,
+    "context_fit": 0.15
+  },
+  "semantic_blend": {
+    "composite_weight": 0.70,
+    "semantic_weight": 0.30
+  },
+  "jd_summary_for_embedding": "Senior AI Engineer at Redrob AI Series A product company. Pune Noida India hybrid. 5 to 9 years experience ideal 6 to 8 years. Must have production experience with embeddings-based retrieval systems sentence-transformers BGE E5. Must have vector database hybrid search Pinecone Qdrant Milvus FAISS Elasticsearch OpenSearch. Must have evaluation frameworks NDCG MRR MAP A/B testing. Strong Python. Shipped end-to-end ranking search recommendation systems to real users at scale. Strong opinions on retrieval hybrid versus dense. LLM integration fine-tuning versus prompting. Nice to have LoRA QLoRA PEFT learning-to-rank distributed inference. NOT fit pure research no production deployment. NOT fit only LangChain calling OpenAI. NOT fit entire career TCS Infosys Wipro Accenture consulting firms. NOT fit computer vision speech robotics without NLP IR."
+}

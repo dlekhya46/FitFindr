@@ -1,0 +1,14 @@
+# Redrob Candidate Ranker — dependencies
+# Install: pip install -r requirements.txt
+# For CPU-only torch (required): pip install torch --index-url https://download.pytorch.org/whl/cpu
+
+# Core
+numpy>=1.26.0
+orjson>=3.9.0
+
+# Stage 3: semantic re-ranking
+sentence-transformers>=2.7.0
+# torch installed separately (CPU build) — see above
+
+# Optional: faster data processing
+pandas>=2.1.0

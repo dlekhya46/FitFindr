@@ -1,0 +1,40 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pycache
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Test & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Model weights — downloaded by generate_jd_artifacts.py, not committed
+artifacts/model_cache/
+
+# Generated embedding — produced by generate_jd_artifacts.py, not committed
+artifacts/jd_embedding.npy
+
+# Pipeline output
+submission.csv
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# IDEs
+.vscode/
+.idea/
+*.swp
